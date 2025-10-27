@@ -1,7 +1,5 @@
-#include "MutanStack.h"
-
-
-
+#include "MutantStack.h"
+#include <iostream>
 
 int main()
 {

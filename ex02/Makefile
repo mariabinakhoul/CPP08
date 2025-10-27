@@ -1,4 +1,4 @@
-NAME = mutanStack
+NAME = mustantStack
 
 COMP = c++
 
