@@ -8,7 +8,7 @@
 
 class Span {
 private:
-    unsigned int _N;
+    unsigned int _N; //maximum capacity
     std::vector<int> _numbers;
 
 public:
